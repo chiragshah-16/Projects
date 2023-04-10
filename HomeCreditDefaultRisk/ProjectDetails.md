@@ -4,6 +4,7 @@ Home Credit Default Risk (Loan approval system)
 Dataset link: https://www.kaggle.com/competitions/home-credit-default-risk/data
 
 Jupyter Notebooks:
+
 a) DataPreparation_1.ipynb -
 1. Basic EDA and imputation of numerical and categorical predictors were performed.
 2. Dropped several highly correlated features to reduce predictors.
